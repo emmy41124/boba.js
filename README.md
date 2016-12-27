@@ -1,5 +1,7 @@
 # Boba.js
 
+[![CDNJS](https://img.shields.io/cdnjs/v/boba.js.svg)](https://cdnjs.com/libraries/boba.js)
+
 Boba.js is a small, easily extensible JavaScript library that makes working
 with Google Analytics easier.
 
